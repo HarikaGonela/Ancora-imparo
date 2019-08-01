@@ -63,9 +63,10 @@ a
     background-color:white;
 
 }
-.cover
+.cover:hover
 {
     width:60em;
+    transform: scale(1.5);
 
 }
 
